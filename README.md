@@ -1,2 +1,2 @@
 # cognitive-algorithms
-Homework solutions in Python for Cognitive Algorithms course at TU Berlin
+Programming assignment solutions in Python for Cognitive Algorithms course 
